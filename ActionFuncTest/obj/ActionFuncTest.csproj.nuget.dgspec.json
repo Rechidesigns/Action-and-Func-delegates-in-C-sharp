@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kingrechi\\Desktop\\Action-Func-Delegate\\ActionFuncDelegate\\ActionFuncTest\\ActionFuncTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kingrechi\\Desktop\\Action-Func-Delegate\\ActionFuncDelegate\\ActionFuncDelegate\\ActionFuncDelegate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kingrechi\\Desktop\\Action-Func-Delegate\\ActionFuncDelegate\\ActionFuncDelegate\\ActionFuncDelegate.csproj",
+        "projectName": "ActionFuncDelegate",
+        "projectPath": "C:\\Users\\Kingrechi\\Desktop\\Action-Func-Delegate\\ActionFuncDelegate\\ActionFuncDelegate\\ActionFuncDelegate.csproj",
+        "packagesPath": "C:\\Users\\Kingrechi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kingrechi\\Desktop\\Action-Func-Delegate\\ActionFuncDelegate\\ActionFuncDelegate\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kingrechi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.6.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kingrechi\\Desktop\\Action-Func-Delegate\\ActionFuncDelegate\\ActionFuncTest\\ActionFuncTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kingrechi\\Desktop\\Action-Func-Delegate\\ActionFuncDelegate\\ActionFuncTest\\ActionFuncTest.csproj",
+        "projectName": "ActionFuncTest",
+        "projectPath": "C:\\Users\\Kingrechi\\Desktop\\Action-Func-Delegate\\ActionFuncDelegate\\ActionFuncTest\\ActionFuncTest.csproj",
+        "packagesPath": "C:\\Users\\Kingrechi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kingrechi\\Desktop\\Action-Func-Delegate\\ActionFuncDelegate\\ActionFuncTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kingrechi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kingrechi\\Desktop\\Action-Func-Delegate\\ActionFuncDelegate\\ActionFuncDelegate\\ActionFuncDelegate.csproj": {
+                "projectPath": "C:\\Users\\Kingrechi\\Desktop\\Action-Func-Delegate\\ActionFuncDelegate\\ActionFuncDelegate\\ActionFuncDelegate.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
